@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working as a data analyst
+- 🌱 I’m currently learning python and data science
+
+
 <!--
 **mohammad-agus/mohammad-agus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
