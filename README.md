@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-MMy name is Agus. I'm a data analyst with 4 years of experience in the operations and supply chain management of a retail company.  
+My name is Agus. I'm a data analyst with 4 years of experience in the operations and supply chain management of a retail company.  
 I'm deepening my understanding of predictive analytics, machine learning, and Python.
 
 <!--
