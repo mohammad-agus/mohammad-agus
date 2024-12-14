@@ -1,8 +1,7 @@
 ## Hi there 👋
 
-My name is Agus, I'm a data analyst with 4 years of experience in the operations and supply chain management of a retail company.  
-I'm currently deepened my understanding in predictive analytics, machine learning and Python.
-
+MMy name is Agus. I'm a data analyst with 4 years of experience in the operations and supply chain management of a retail company.  
+I'm deepening my understanding of predictive analytics, machine learning, and Python.
 
 <!--
 **mohammad-agus/mohammad-agus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
