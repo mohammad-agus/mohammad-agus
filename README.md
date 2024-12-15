@@ -15,19 +15,19 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/DuckDB_logo.svg" height="40" alt="duckdb logo"  />
+  <img src="https://images.seeklogo.com/logo-png/55/1/duckdb-icon-logo-png_seeklogo-554697.png" height="30" alt="duckdb logo"  />
   <img width="12" />
-  <img src="https://seeklogo.com/images/M/metabase-logo-AC22E4DDE5-seeklogo.com.png" height="40" alt="metabase logo"  />
+  <img src="https://seeklogo.com/images/M/metabase-logo-AC22E4DDE5-seeklogo.com.png" height="30" alt="metabase logo"  />
   <img width="12" />
-  <img src="https://seeklogo.com/images/T/tableau-software-logo-F1CE2CA54A-seeklogo.com.png" height="40" alt="tableau logo"  />
+  <img src="https://seeklogo.com/images/T/tableau-software-logo-F1CE2CA54A-seeklogo.com.png" height="30" alt="tableau logo"  />
   <img width="12" />
-  <img src="https://seeklogo.com/images/P/power-bi-icon-logo-E1B451ED39-seeklogo.com.png" height="40" alt="power bi logo"  />
+  <img src="https://seeklogo.com/images/P/power-bi-icon-logo-E1B451ED39-seeklogo.com.png" height="30" alt="power bi logo"  />
   <img width="12" />
-  <img src="https://seeklogo.com/images/M/microsoft-excel-logo-F8C90B4427-seeklogo.com.png" height="40" alt="ms excel logo"  />
+  <img src="https://seeklogo.com/images/M/microsoft-excel-logo-F8C90B4427-seeklogo.com.png" height="30" alt="ms excel logo"  />
 </div>
 
 ###
