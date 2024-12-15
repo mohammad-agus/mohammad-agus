@@ -33,17 +33,15 @@
 ###
 
 
-###
-
 
 ###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/moh-agus/" target="_blank">
-    <img src="https://images.seeklogo.com/logo-png/15/1/linkedin-logo-png_seeklogo-157910.png" height="15" alt="linkedin logo"  />
+    <img src="https://seeklogo.com/images/L/linkedin-logo-4C5E64E1AB-seeklogo.com.png" height="20" alt="linkedin logo"  />
   </a>
   <img width="12" />
-  <a href="mailto:name@rapidtables.com">
-    <img src="https://seeklogo.com/images/O/outlook-logo-A4EC82F71E-seeklogo.com.png" height="15" alt="outlook logo"  />
+  <a href="mailto:mohammad_agus@outlook.com">
+    <img src="https://seeklogo.com/images/O/outlook-logo-A4EC82F71E-seeklogo.com.png" height="20" alt="outlook logo"  />
   </a>
 </div>
