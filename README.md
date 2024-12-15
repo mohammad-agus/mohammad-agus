@@ -19,7 +19,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://images.seeklogo.com/logo-png/55/1/duckdb-icon-logo-png_seeklogo-554697.png" height="40" alt="duckdb logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/DuckDB_logo.svg" height="40" alt="duckdb logo"  />
   <img width="12" />
   <img src="https://seeklogo.com/images/M/metabase-logo-AC22E4DDE5-seeklogo.com.png" height="40" alt="metabase logo"  />
   <img width="12" />
