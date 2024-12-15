@@ -40,10 +40,10 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/moh-agus/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://images.seeklogo.com/logo-png/15/1/linkedin-logo-png_seeklogo-157910.png" height="15" alt="linkedin logo"  />
   </a>
   <img width="12" />
   <a href="mailto:name@rapidtables.com">
-    <img src="https://seeklogo.com/images/O/outlook-logo-A4EC82F71E-seeklogo.com.png" height="25" alt="outlook logo"  />
+    <img src="https://seeklogo.com/images/O/outlook-logo-A4EC82F71E-seeklogo.com.png" height="15" alt="outlook logo"  />
   </a>
 </div>
