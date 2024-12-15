@@ -32,16 +32,16 @@
 
 ###
 
-
+<h3 align="left">✉️ Reach me at</h3>
 
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/moh-agus/" target="_blank">
-    <img src="https://seeklogo.com/images/L/linkedin-logo-4C5E64E1AB-seeklogo.com.png" height="20" alt="linkedin logo"  />
+  <a href="mailto:mohammad_agus@outlook.com">
+    <img src="https://seeklogo.com/images/M/microsoft-outlook-logo-188AB32C94-seeklogo.com.png" height="30" alt="outlook logo"  />
   </a>
   <img width="12" />
-  <a href="mailto:mohammad_agus@outlook.com">
-    <img src="https://seeklogo.com/images/O/outlook-logo-A4EC82F71E-seeklogo.com.png" height="20" alt="outlook logo"  />
+  <a href="https://www.linkedin.com/in/moh-agus/" target="_blank">
+    <img src="https://seeklogo.com/images/L/linkedin-new-2020-logo-E14A5D55ED-seeklogo.com.png" height="30" alt="linkedin logo"  />
   </a>
 </div>
