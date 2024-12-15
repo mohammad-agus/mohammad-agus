@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">My name is Agus. I'm a data analyst with 4 years of experience in operations and supply chain management of a retail company.  <br>I'm deepening my understanding of predictive analytics, machine learning, and Python.</p>
+<p align="left">My name is Agus. I'm a data analyst with 4 years of experience in operations and supply chain management of a retail company.  <br>I'm currently deepening my understanding of predictive analytics, machine learning, and Python.</p>
 
 ###
 
