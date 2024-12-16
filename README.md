@@ -38,10 +38,10 @@
 
 <div align="left">
   <a href="mailto:mohammad_agus@outlook.com">
-    <img src="https://seeklogo.com/images/M/microsoft-outlook-logo-188AB32C94-seeklogo.com.png" height="30" alt="outlook logo"  />
+    <img src="https://seeklogo.com/images/M/microsoft-outlook-logo-188AB32C94-seeklogo.com.png" height="25" alt="outlook logo"  />
   </a>
   <img width="12" />
   <a href="https://www.linkedin.com/in/moh-agus/" target="_blank">
-    <img src="https://seeklogo.com/images/L/linkedin-new-2020-logo-E14A5D55ED-seeklogo.com.png" height="30" alt="linkedin logo"  />
+    <img src="https://seeklogo.com/images/L/linkedin-new-2020-logo-E14A5D55ED-seeklogo.com.png" height="25" alt="linkedin logo"  />
   </a>
 </div>
