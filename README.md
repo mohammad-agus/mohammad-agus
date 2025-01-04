@@ -25,20 +25,20 @@
   <img width="12" />
   <img src="https://seeklogo.com/images/T/tableau-software-logo-F1CE2CA54A-seeklogo.com.png" height="30" alt="tableau logo"  />
   <img width="12" />
-  <img src="https://seeklogo.com/images/P/power-bi-icon-logo-E1B451ED39-seeklogo.com.png" height="30" alt="power bi logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="30" alt="power bi logo"  />
   <img width="12" />
-  <img src="https://seeklogo.com/images/M/microsoft-excel-logo-F8C90B4427-seeklogo.com.png" height="30" alt="ms excel logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" height="30" alt="ms excel logo"  />
 </div>
 
 ###
 
-<h3 align="left">✉️ Reach me at</h3>
+<h3 align="left">✉️ Contact information</h3>
 
 ###
 
 <div align="left">
   <a href="mailto:mohammad_agus@outlook.com">
-    <img src="https://seeklogo.com/images/M/microsoft-outlook-logo-188AB32C94-seeklogo.com.png" height="25" alt="outlook logo"  />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg" height="25" alt="outlook logo"  />
   </a>
   <img width="12" />
   <a href="https://www.linkedin.com/in/moh-agus/" target="_blank">
