@@ -1,5 +1,11 @@
 <h1 align="center">Hey there 👋</h1>
 
+📍 Gorontalo, Indonesia<br>
+Email&emsp;&nbsp;&nbsp;&nbsp;: mohammad_agus@outlook.com<br>
+LinkedIn&ensp;: [in/moh-agus](https://www.linkedin.com/in/moh-agus/)<br>
+Github&emsp;&nbsp;: [mohammad-agus](https://github.com/mohammad-agus/)
+
+
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
@@ -30,6 +36,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" height="30" alt="ms excel logo"  />
 </div>
 
+<!--
 ###
 
 <h3 align="left">✉️ Contact information</h3>
