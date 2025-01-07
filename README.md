@@ -1,9 +1,9 @@
 <h1 align="center">Hey there 👋</h1>
 
 📍 Gorontalo, Indonesia<br>
-mohammad_agus@outlook.com<br>
-LinkedIn&ensp;: [in/moh-agus](https://www.linkedin.com/in/moh-agus/)<br>
-Github&emsp;&nbsp;: [mohammad-agus](https://github.com/mohammad-agus/)
+E:&ensp;mohammad_agus@outlook.com<br>
+L:&ensp;[in/moh-agus](https://www.linkedin.com/in/moh-agus/)<br>
+G:&ensp;[mohammad-agus](https://github.com/mohammad-agus/)
 
 
 ###
