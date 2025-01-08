@@ -1,9 +1,5 @@
 <h1 align="center">Hey there 👋</h1>
 
-📍 Gorontalo, Indonesia<br>
-E:&ensp;mohammad_agus@outlook.com<br>
-L:&ensp;[in/moh-agus](https://www.linkedin.com/in/moh-agus/)<br>
-G: [mohammad-agus](https://github.com/mohammad-agus/)
 
 
 ###
@@ -35,6 +31,17 @@ G: [mohammad-agus](https://github.com/mohammad-agus/)
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" height="30" alt="ms excel logo"  />
 </div>
+
+
+###
+
+<h3 align="left">Contact Information</h3>
+
+###
+
+Email:&ensp;mohammad_agus@outlook.com
+
+
 
 <!--
 ###
