@@ -3,7 +3,7 @@
 📍 Gorontalo, Indonesia<br>
 E:&ensp;mohammad_agus@outlook.com<br>
 L:&ensp;[in/moh-agus](https://www.linkedin.com/in/moh-agus/)<br>
-G:&ensp;[mohammad-agus](https://github.com/mohammad-agus/)
+G: [mohammad-agus](https://github.com/mohammad-agus/)
 
 
 ###
