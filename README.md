@@ -21,9 +21,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://images.seeklogo.com/logo-png/55/1/duckdb-icon-logo-png_seeklogo-554697.png" height="30" alt="duckdb logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/DuckDB_logo.svg" height="30" alt="duckdb logo"  />
   <img width="12" />
-  <img src="https://seeklogo.com/images/M/metabase-logo-AC22E4DDE5-seeklogo.com.png" height="30" alt="metabase logo"  />
+  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/metabase_logo_icon_170959.png" height="30" alt="metabase logo"  />
   <img width="12" />
   <img src="https://seeklogo.com/images/T/tableau-software-logo-F1CE2CA54A-seeklogo.com.png" height="30" alt="tableau logo"  />
   <img width="12" />
