@@ -25,7 +25,7 @@
   <img width="12" />
   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/metabase_logo_icon_170959.png" height="30" alt="metabase logo"  />
   <img width="12" />
-  <img src="https://seeklogo.com/images/T/tableau-software-logo-F1CE2CA54A-seeklogo.com.png" height="30" alt="tableau logo"  />
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="30" alt="tableau logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="30" alt="power bi logo"  />
   <img width="12" />
