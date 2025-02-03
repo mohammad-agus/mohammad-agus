@@ -1,3 +1,6 @@
+
+
+
 - 🖥️ Data Analyst [@GembiraHouseware](https://gembirahouseware.com/gembira/), in Gorontalo ID
 - 🧿 Currently deepening my understanding of predictive analytics, machine learning, and Python
 - 🎓 Bachelor's in Industrial Engineering
@@ -5,7 +8,7 @@
 <!--
 <h1 align="center">Hey there 👋</h1>
 
-
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="200px" width="200px" align="right">
 
 ###
 
