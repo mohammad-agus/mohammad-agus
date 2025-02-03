@@ -1,3 +1,8 @@
+- 🖥️ Data Analyst [@GembiraHouseware](https://gembirahouseware.com/gembira/), in Gorontalo ID
+- 🧿 Currently deepening my understanding of predictive analytics, machine learning, and Python
+- 🎓 Bachelor's Degree in Industrial Engineering
+
+<!--
 <h1 align="center">Hey there 👋</h1>
 
 
@@ -43,7 +48,7 @@ Email:&ensp;mohammad_agus@outlook.com
 
 
 
-<!--
+
 ###
 
 <h3 align="left">✉️ Contact information</h3>
