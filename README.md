@@ -21,7 +21,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/DuckDB_logo.svg" height="30" alt="duckdb logo"  />
+  <img src="https://cdn.brandfetch.io/idYamjE8Qv/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" height="30" alt="duckdb logo"  />
   <img width="12" />
   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/metabase_logo_icon_170959.png" height="30" alt="metabase logo"  />
   <img width="12" />
