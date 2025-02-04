@@ -5,7 +5,7 @@
 - 🧿 **Currently Exploring**: Predictive Analytics, Machine Learning, and Python
 - 🎓 **Bachelor's in Industrial Engineering**
 
-### 📂 **Projects**  
+### 💡 **Projects**  
 Here are some of the projects I’ve worked on:  
 - **[Machine Failures Detection](https://github.com/mohammad-agus/machine-failures-detection)**  
 Built a classification model and its API to detect machine failures.
