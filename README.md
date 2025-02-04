@@ -11,8 +11,6 @@ Here are some of the projects I’ve worked on:
 Built a classification model and its API to detect machine failures.
 - **[Electricity Usage Prediction Web App](https://github.com/mohammad-agus/electricity-usage-prediction-web-app)**  
 Developed a streamlit app for predicting electricity usage using a linear regression model built from scratch.   
-- **[Churn Web Service](https://github.com/mohammad-agus/churn-web-service)**  
-Developed a deployment-ready containerized logistic regression model API to predict customer churn.
 - **[Shipment Vehicle Routing Program](https://github.com/mohammad-agus/shipment-vehicle-routing-program)**  
 Built a python program that utilizes the OpenRouteService API to solve the Vehicle Routing Problem (VRP).
 - **[HR Analytics Using SQL and Power BI](https://github.com/mohammad-agus/hr-analytics-using-sql-and-powerbi)**  
