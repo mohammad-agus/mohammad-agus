@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/mohammad-agus/mohammad-agus/refs/heads/main/images/pic.png" alt="analytics ilustration" min-width="400px" max-width="125px" width="125px" align="right">
 
-- 🖥️ Data Analyst [@GembiraHouseware](https://gembirahouseware.com/gembira/), in Gorontalo ID
+- 🖥️ Data Analytics Div. Head [@GembiraHouseware](https://gembirahouseware.com/gembira/), in Gorontalo ID
 - 🧿 Currently deepening my understanding of predictive analytics, machine learning, and Python
 - 🎓 Bachelor's in Industrial Engineering
 
