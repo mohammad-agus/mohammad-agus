@@ -12,7 +12,7 @@ Built a classification model and its API to detect machine failures.
 - **[Electricity Usage Prediction Web App](https://github.com/mohammad-agus/electricity-usage-prediction-web-app)**  
 Developed a streamlit app for predicting electricity usage using a linear regression model built from scratch.   
 - **[Shipment Vehicle Routing Program](https://github.com/mohammad-agus/shipment-vehicle-routing-program)**  
-Built a python program that utilizes the OpenRouteService API to solve the Vehicle Routing Problem (VRP).
+Built a Python program that utilizes the OpenRouteService API to solve the Vehicle Routing Problem (VRP).
 - **[HR Analytics Using SQL and Power BI](https://github.com/mohammad-agus/hr-analytics-using-sql-and-powerbi)**  
 Analyzed human resources data using SQL & Power BI.
 
