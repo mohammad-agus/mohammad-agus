@@ -20,5 +20,4 @@ Analyzed human resources data using SQL & Power BI.
 ### 📫 **Let's Connect!**  
 - LinkedIn: [in/moh-agus](https://www.linkedin.com/in/moh-agus/)
 - Email: mohammad_agus@outlook.com
-- GitHub: [mohammad-agus](https://github.com/mohammad-agus)  
 
