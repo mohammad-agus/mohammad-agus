@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/mohammad-agus/mohammad-agus/refs/heads/main/images/pic.png" alt="analytics ilustration" min-width="400px" max-width="170px" width="170px" align="right">
 
 ### 👋 Hello, I'm Moh. Agus  
-- 🖥️ **Data Analytics Lead** @ [Gembira Houseware](https://gembirahouseware.com/gembira/), Gorontalo, Indonesia  
+- 🖥️ **Data Analytics Lead** @ [Gembira Houseware](https://gembirahouseware.com/gembira/) (Gorontalo, ID)  
 - 🧿 **Currently Exploring**: Predictive Analytics, Machine Learning, and Python
 - 🎓 **Bachelor's in Industrial Engineering**
 
